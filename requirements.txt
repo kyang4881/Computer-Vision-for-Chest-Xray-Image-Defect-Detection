@@ -1,0 +1,6 @@
+pandas
+torch
+huggingface_hub
+gradio==4.42.0
+timm==1.0.9
+

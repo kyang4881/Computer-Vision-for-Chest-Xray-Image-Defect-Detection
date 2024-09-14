@@ -1,0 +1,11 @@
+notebooks
+.env
+.config.json
+__pycache__
+.ipynb_checkpoints
+testrun.ipynb
+data
+resnetv2_152x2_bit.goog_teacher_in21k_ft_in1k_finetuned_best_score.pth
+resnetv2_152x2_bit.goog_teacher_in21k_ft_in1k_finetuned_best_score.txt
+.cache
+media
